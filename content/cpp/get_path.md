@@ -36,3 +36,7 @@ int main()
 ### 方法其他  
 待定  
 $\cdots$
+
+其他
+GetModuleFile()
+等
