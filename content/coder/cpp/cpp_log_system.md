@@ -20,3 +20,8 @@ debug 调试
 info 通知
 warn 警告
 error 错误
+
+
+spdlog
+
+滚动日志
